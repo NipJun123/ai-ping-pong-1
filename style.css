@@ -1,0 +1,27 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+#instruct
+{
+    float: right;
+}
+
+#title1
+{
+    display: inline;
+}
+
+#div1
+{
+    width: 100%;
+}
+
+canvas
+{
+    border-color: aliceblue;
+    border-width: 10px;
+    border-style: ridge;
+}
